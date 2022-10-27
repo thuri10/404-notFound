@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{github.com/thuri10/404-notFound}">
+    <a href="https://github.com/thuri10/404-notFound">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{github.com/thuri10/404-notFound}">
+    <a href="https://github.com/thuri10/404-notFound">
       Solution
     </a>
     <span> | </span>
@@ -72,4 +72,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@thuri](https://{github.com/thuri0})
+- GitHub [@thuri](https://github.com/thuri10)
